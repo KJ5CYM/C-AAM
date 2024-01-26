@@ -1,6 +1,6 @@
 # C-AAM
 
-The Turret we made to target A&amp;M Students during the 24hr HackTX...
+The OpenCV Auto-Targeting Turret we made to attack Texas A&amp;M students during the 24hr HackTX...
 
 WE WON 1ST PLACE!
 https://devpost.com/software/c-aam-turret
